@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:custom/brainGames/base/item/nothing"
+    "layer0": "minecraft:custom/brain_games/base/item/nothing"
   }
 }

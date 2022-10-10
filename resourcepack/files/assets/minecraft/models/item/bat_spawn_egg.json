@@ -2,6 +2,6 @@
   "parent": "minecraft:item/template_spawn_egg",
   
   "overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "custom/brainGames/>TEAMNAME</item/NAME"}
+		{ "predicate": { "custom_model_data": 1 }, "model": "custom/brain_games/>TEAMNAME</item/NAME"}
 	]
 }

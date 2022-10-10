@@ -1,10 +1,10 @@
 {
-    "item.brainGames.TEAMNAME.creative_portal_gun.name": "",
+    "item.brain_games.TEAMNAME.creative_portal_gun.name": "",
 
-    "entity.brainGames.TEAMNAME.npc.name.tool_smith_rick": "",
+    "entity.brain_games.TEAMNAME.npc.name.tool_smith_rick": "",
 
 
-    "advancements.brainGames.base.tutorial.root.title": "",
-    "advancements.brainGames.base.tutorial.root.description": ""
+    "advancements.brain_games.base.tutorial.root.title": "",
+    "advancements.brain_games.base.tutorial.root.description": ""
 
 }

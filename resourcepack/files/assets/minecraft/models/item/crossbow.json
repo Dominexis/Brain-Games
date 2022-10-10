@@ -107,6 +107,6 @@
       },
       "model": "item/crossbow_firework"
     },
-		{ "predicate": { "custom_model_data": 1 }, "model": "custom/brainGames/>TEAMNAME</item/NAME"}
+		{ "predicate": { "custom_model_data": 1 }, "model": "custom/brain_games/>TEAMNAME</item/NAME"}
   ]
 }

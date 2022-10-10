@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/shears"
   },
   "overrides": [
-		{ "predicate": { "custom_model_data": 1 }, "model": "custom/brainGames/>TEAMNAME</advancements/NAME"}
+		{ "predicate": { "custom_model_data": 1 }, "model": "custom/brain_games/>TEAMNAME</advancements/NAME"}
 	]
 }
