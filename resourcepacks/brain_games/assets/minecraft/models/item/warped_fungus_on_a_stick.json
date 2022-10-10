@@ -1,0 +1,11 @@
+{
+    "parent": "minecraft:item/handheld_rod",
+    "textures": {
+        "layer0": "minecraft:item/warped_fungus_on_a_stick"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 100001 }, "model": "generic:item/nothing" },
+        { "predicate": { "custom_model_data": 100101 }, "model": "team_1:item/nothing" },
+        { "predicate": { "custom_model_data": 100201 }, "model": "team_2:item/nothing" }
+    ]
+}

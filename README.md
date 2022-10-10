@@ -10,3 +10,4 @@ Because the map will be about puzzles, there will be certain requirements to ens
 - Be mindful of how many players your puzzles require. If the location/state of the player is integral to solving the puzzle, then the number of players must be a specific amount. But if the location/state of the player is irrelevant, then it can handle any number of players.
 - Because you will be working alongside others, don't modify vanilla assets in either the data pack or the resource pack without asking about it first.
 - Your section must thoroughly reset when there is no one inside and must not cause lag when it is not running. 
+- If you want to edit vanilla assets, ask about it first.
